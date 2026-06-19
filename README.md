@@ -35,7 +35,7 @@ DevOps Engineer with hands-on experience in AWS, CI/CD automation, Docker, Kuber
 
 ---
 <p align="center">
-<img src="https://github.com/anjan816/anjan816/blob/output/github-contribution-grid-snake-light.svg">
+<img src="https://github.com/anjan816/anjan816/blob/output/github-contribution-grid-snake.svg">
 </p>
 
 
