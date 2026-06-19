@@ -29,7 +29,6 @@ DevOps Engineer with hands-on experience in AWS, CI/CD automation, Docker, Kuber
 ![](https://github-profile-trophy.vercel.app/?username=anjan816&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://komarev.com/ghpvc/?username=anjan816&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ### Thanks for Visiting my GitHub Profile!
 
