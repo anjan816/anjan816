@@ -1,5 +1,5 @@
 # 💫 About Me:
-<div align="center"
+<div align="center">
 <table>
   <tr>
     <td><h1>Hi there! I'm Anjan</h1></td>
