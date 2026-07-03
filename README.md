@@ -1,11 +1,8 @@
 # 💫 About Me:
-<div align="center"
-<table>
-  <tr>
-    <td><h1>Hi there! I'm Anjan</h1></td>
-    <td><img src="./Ayanokoji.png" alt="Anjan" width="80" /></td>
-  </tr>
-</table>
+<div align="center">
+   <img src="./Ayanokoji.png" alt="Anjan" width="120">
+  <h1>Hi there! I'm Anjan 👋</h1>
+ 
 </div>
 
 DevOps Engineer with hands-on experience in AWS, CI/CD automation, Docker, Kubernetes, Terraform, and Jenk- ins. Skilled in infrastructure automation, cloud-native deployments, and monitoring using Prometheus, Grafana, and CloudWatch. Passionate about building scalable, reliable, and efficient DevOps solutions.
