@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td><h1>Hi there! I'm Anjan</h1></td>
-    <td><img src="./Ayanokoji.png" alt="Ayonokoji Kiyotaka" width="80" /></td>
+    <td><img src="./Ayanokoji.png" alt="Anjan" width="80" /></td>
   </tr>
 </table>
 </div>
